@@ -74,6 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # folders that are AIDS
-
-Content/*
+#Content/*
 
