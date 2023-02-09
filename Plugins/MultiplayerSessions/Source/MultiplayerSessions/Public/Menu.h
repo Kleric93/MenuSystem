@@ -13,5 +13,8 @@ UCLASS()
 class MULTIPLAYERSESSIONS_API UMenu : public UUserWidget
 {
 	GENERATED_BODY()
-	
+
+private:
+	UFUNCTION(BlueprintCallable)
+	void MenuSetup();
 };
