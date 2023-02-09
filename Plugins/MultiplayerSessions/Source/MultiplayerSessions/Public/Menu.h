@@ -50,7 +50,7 @@ private:
 	UFUNCTION()
 	void JoinButtonClicked();
 
-	void MenuTeardown();
+	void MenuTearDown();
 
 	// the subsystem designed to handle all online session functionality
 	class UMultiplayerSessionsSubsystem* MultiplayerSessionsSubsystem;
